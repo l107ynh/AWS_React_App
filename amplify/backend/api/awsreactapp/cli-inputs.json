@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "awsreactapp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "E:\\web\\Training\\aws_react_app\\amplify\\backend\\api\\awsreactapp\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 365,
+      "apiKeyExpirationDate": "2023-03-07T10:50:56.059Z",
+      "keyDescription": "demo"
+    }
+  }
+}
